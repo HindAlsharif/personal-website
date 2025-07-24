@@ -7,6 +7,7 @@ The website includes basic information about me, my skills, and one of my univer
 
 # Installation
 To view the website:
+use the GetHub Pages Link in the description or:
 1. Download the project files from this repository
 2. Open the `index.html` file in your web browser
 
