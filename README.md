@@ -1,4 +1,4 @@
-# personal-website
+# Personal Website
 
 # Overview
 This is a simple personal website I created using HTML and CSS.  
